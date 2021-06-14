@@ -1,0 +1,57 @@
+{
+    "BestUniversitas": [
+      {
+        "id": 1,
+        "nama": "Universitas Indonesia",
+        "gambar": "ui.png"
+      },
+      {
+        "id": 2,
+        "nama": "Institut Teknologi Bandung",
+        "gambar": "itb.png"
+      },
+      {
+        "id": 3,
+        "nama": "Institut Pertanian Bogor",
+        "gambar": "ipb.png"
+      },
+      {
+        "id": 4,
+        "nama": "Universitas Gundarma",
+        "gambar": "gunadarma.png"
+      }
+    ],
+    "fitur":[
+      {
+        "id":1,
+        "fitur":"fitur1",
+        "title" : "Kampus"
+      },
+      {
+        "id":2,
+        "fitur":"fitur2",
+        "title" : "Beasiswa"
+      },
+      {
+        "id":3,
+        "fitur":"fitur3",
+        "title" : "Seminar/Workshop"
+      },
+      {
+        "id":4,
+        "fitur":"fitur4",
+        "title" : "UTBK"
+      },
+      {
+        "id":5,
+        "fitur":"fitur5",
+        "title" : "Lowongan"
+      },
+      {
+        "id":6,
+        "fitur":"fitur6",
+        "title" : "Lomba"
+      }
+    ]
+
+  }
