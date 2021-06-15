@@ -42,26 +42,6 @@
   </div>
 </div>
       <!-- Right -->
-      <!-- <div>
-        <a href="" class="me-4 mr-4 text-reset">
-          <i class="fa fa-facebook"></i>
-        </a>
-        <a href="" class="me-4 mr-4 text-reset">
-          <i class="fa fa-twitter"></i>
-        </a>
-        <a href="" class="me-4 mr-4 text-reset">
-          <i class="fa fa-google"></i>
-        </a>
-        <a href="" class="me-4 mr-4 text-reset">
-          <i class="fa fa-instagram"></i>
-        </a>
-        <a href="" class="me-4 mr-4 text-reset">
-          <i class="fa fa-linkedin"></i>
-        </a>
-        <a href="" class="me-4 mr-4 text-reset">
-          <i class="fa fa-github"></i>
-        </a>
-      </div> -->
       <!-- Right -->
     </section>
     <!-- Section: Social media -->
@@ -76,7 +56,7 @@
             <!-- Content -->
             <h6 class="text-uppercase fw-bold mb-4">Kampus Indonesia</h6>
             <p id="desc-footer">
-              Kami merupakan perusahaan dibidang informasi seputas dunia
+              Kami merupakan perusahaan dibidang informasi seputar dunia
               perkuliahan yang memberikan informasi secara terupdate dan dapat
               dipercaya sepenuhnya
             </p>
@@ -135,14 +115,14 @@
             <!-- Links -->
             <h6 class="text-uppercase fw-bold mb-4">Contact</h6>
             <p>
-              <i class="fas fa-home me-3"></i> Kec Lowokwaru, Kota Malang, Jawa
+              <i class="fa fa-home me-3 mr-1"></i> Kec Lowokwaru, Kota Malang, Jawa
               Timur
             </p>
             <p>
-              <i class="fas fa-envelope me-3"></i>
+              <i class="fa fa-envelope me-3 mr-1"></i>
               info@kampusindonesia.co.id
             </p>
-            <p><i class="fas fa-phone me-3"></i> 021 3425 2885</p>
+            <p><i class="fa fa-phone me-3 mr-1"></i> 021 3425 2885</p>
           </div>
           <!-- Grid column -->
         </div>

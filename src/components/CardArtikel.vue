@@ -17,12 +17,10 @@ export default {
 </script>
 
 <style>
-
 .img-artikel{
     height: 200px;
     object-fit: cover;
 }
-
 .card{
     border: 2px solid black;
 }

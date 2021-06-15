@@ -24,6 +24,8 @@
 </template>
 
 <script>
+
+
 export default {
   name: "CardUniv",
   props: ["listdata"],
@@ -53,7 +55,8 @@ export default {
 
       ],
     }
-  }
+  },
+  
 };
 </script>
 
@@ -72,10 +75,12 @@ export default {
 }
 
 #love {
-  box-shadow: 0px 7px 24px 7px rgba(0, 0, 0, 0.1);
+  color: red;
+  box-shadow: 0px 2px 10px 3px rgba(0, 0, 0, 0.1);
   position: absolute;
   right: 10px;
   top: 10px;
+  border-radius: 20px;
 }
 
 

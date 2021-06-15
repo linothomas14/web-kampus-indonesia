@@ -120,13 +120,13 @@
       ></path>
     </svg>
     <div class="container-artikel">
-      <div class="container py-5 shadow" id="artikel">
+      <div class="container py-3 shadow" id="artikel">
         <div class="row">
           <div class="col mb-3 border-bottom artikel-tagline">
-            <h2 style="color: #14375e"><strong>Artikel</strong> Terbaru</h2>
-            <h5 style="color: #14375e">
+            <h3 style="color: #14375e"><strong>Artikel</strong> Terbaru</h3>
+            <h6 style="color: #14375e">
               Jangan Sampai terlewat informasi terbaru kampus favoritmu
-            </h5> <a href="" class="btn btn-primary float-right mr-4 mb-3 d-inline">Lihat selengkapnya</a>
+            </h6> <a href="" class="btn btn-primary float-right mr-4 mb-3 d-inline">Lihat selengkapnya</a>
             <!-- <hr class="mr-4" /> -->
           </div>
         </div>
@@ -169,7 +169,6 @@ import Footer from "@/components/Footer.vue";
 // import axios from "axios";
 import $ from "jquery";
 import carousel from "vue-owl-carousel";
-
 export default {
   name: "Home",
   components: {
@@ -182,7 +181,6 @@ export default {
   },
   data() {
     return {
-
     };
   },
   methods: {
@@ -235,5 +233,4 @@ export default {
   transform: translateY(0px);
 }
 </style>
-
 
