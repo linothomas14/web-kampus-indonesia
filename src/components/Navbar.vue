@@ -24,7 +24,7 @@
               <a class="nav-link" aria-current="page" href="#">Hubungi Kami</a>
             </li>
             <li class="nav-item">
-              <router-link class="nav-link" to="/blog">Blog</router-link>
+              <router-link class="nav-link" to="#">Blog</router-link>
             </li>
           </ul>
           <!-- Right aligned nav items -->
